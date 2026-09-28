@@ -1,4 +1,4 @@
-### 1.Write a c program to find the sum between two numbers using function.
+### 1.Write a c program to find the sum of two numbers using function.
 ```c
 #include <stdio.h>
 
